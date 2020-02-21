@@ -1,5 +1,5 @@
 # Detecting-Twitter-Fake-Bot
-Team Desert Storm | University of Liverpool | Department of computer science
+Team Desert Storm | University of Liverpool | Department of Computer Science
 
 READ ME 
 ****
