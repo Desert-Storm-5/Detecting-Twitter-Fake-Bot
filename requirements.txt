@@ -1,0 +1,13 @@
+**Team Desert Storm | University of Liverpool | Department of Computer Science** 
+
+Requirements for execution of the application:
+
+1. Must have python 3 or greater and libraries installed: tweepy, pandas
+2. Must have library stream parse installed
+3. Access of the twitter developer account
+4. Need twitter credentials for the app / Authorisation tokens
+
+   =>  consumer_key = 'xxxx'
+   =>  consumer_secret = 'xxxx'
+   =>  access_key = '572242513-xxx'
+   =>  access_secret = 'xxxxx'
