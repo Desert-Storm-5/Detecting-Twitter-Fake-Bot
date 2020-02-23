@@ -1,6 +1,6 @@
 **Team Desert Storm | University of Liverpool | Department of Computer Science** 
 
-Requirements for execution of the application:
+# Requirements for execution of the application:
 
 1. Must have python 3 or greater and libraries installed: tweepy, pandas
 2. Must have library stream parse installed
