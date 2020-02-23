@@ -1,5 +1,5 @@
 # Detecting-Twitter-Fake-Bot
-[Team Desert Storm](https://github.com/Desert-Storm-5) | [University of Liverpool | Department of Computer Science](https://www.liverpool.ac.uk/computer-science/)
+[University of Liverpool](https://www.liverpool.ac.uk/computer-science/) | [Apache Storm](http://storm.apache.org/) | [Python](https://www.python.org/)
 
 ## READ ME 
 
@@ -14,8 +14,6 @@ The purpose of this project is to detect abnormal twitter’s fake account from 
 > Python 3 or higher
 
 > Apache Storm
-
-> Internet access
 
 ## Installation
 
